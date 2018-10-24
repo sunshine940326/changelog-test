@@ -1,3 +1,13 @@
+<a name="1.4.0"></a>
+# [1.4.0](https://github.com/sunshine940326/changelog-test/compare/v1.3.4...v1.4.0) (2018-10-24)
+
+
+### Features
+
+* 看到希望的曙光了 ([2c3c15a](https://github.com/sunshine940326/changelog-test/commit/2c3c15a))
+
+
+
 <a name="1.3.7"></a>
 ## [1.3.7](https://github.com/sunshine940326/changelog-test/compare/v1.3.4...v1.3.7) (2018-10-24)
 
