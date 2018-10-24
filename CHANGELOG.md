@@ -1,5 +1,5 @@
-<a name="1.2.6"></a>
-## 1.2.6 (2018-10-23)
+<a name="1.2.7"></a>
+## 1.2.7 (2018-10-24)
 
 
 ### Bug Fixes
@@ -22,14 +22,15 @@
 * first commit ([717e326](https://github.com/sunshine940326/changelog-test/commit/717e326))
 * 创建新分支 ([4ad7816](https://github.com/sunshine940326/changelog-test/commit/4ad7816))
 * 回公司 ([579fbee](https://github.com/sunshine940326/changelog-test/commit/579fbee))
+* 就一天 ([d3a577f](https://github.com/sunshine940326/changelog-test/commit/d3a577f))
 * 改改 ([f07a47a](https://github.com/sunshine940326/changelog-test/commit/f07a47a))
 * 更新日志 ([5aab86f](https://github.com/sunshine940326/changelog-test/commit/5aab86f))
 * 迟迟不 ([93a6a9e](https://github.com/sunshine940326/changelog-test/commit/93a6a9e))
 
 
 
-<a name="1.1.6"></a>
-## 1.1.6 (2018-10-23)
+<a name="1.2.7"></a>
+## 1.2.7 (2018-10-23)
 
 
 ### Bug Fixes
@@ -52,8 +53,10 @@
 * first commit ([717e326](https://github.com/sunshine940326/changelog-test/commit/717e326))
 * 创建新分支 ([4ad7816](https://github.com/sunshine940326/changelog-test/commit/4ad7816))
 * 回公司 ([579fbee](https://github.com/sunshine940326/changelog-test/commit/579fbee))
+* 就一天 ([d3a577f](https://github.com/sunshine940326/changelog-test/commit/d3a577f))
 * 改改 ([f07a47a](https://github.com/sunshine940326/changelog-test/commit/f07a47a))
 * 更新日志 ([5aab86f](https://github.com/sunshine940326/changelog-test/commit/5aab86f))
+* 迟迟不 ([93a6a9e](https://github.com/sunshine940326/changelog-test/commit/93a6a9e))
 
 
 
