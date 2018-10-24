@@ -1,3 +1,18 @@
+<a name="1.3.7"></a>
+## [1.3.7](https://github.com/sunshine940326/changelog-test/compare/v1.3.4...v1.3.7) (2018-10-24)
+
+
+
+<a name="1.3.6"></a>
+## [1.3.6](https://github.com/sunshine940326/changelog-test/compare/v1.3.4...v1.3.6) (2018-10-24)
+
+
+
+<a name="1.3.5"></a>
+## [1.3.5](https://github.com/sunshine940326/changelog-test/compare/v1.3.4...v1.3.5) (2018-10-24)
+
+
+
 ## <small>1.2.7 (2018-10-24)</small>
 
 * feat: aaa ([896e0b1](https://github.com/sunshine940326/changelog-test/commit/896e0b1))
