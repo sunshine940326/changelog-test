@@ -1,3 +1,13 @@
+<a name="1.5.0"></a>
+# [1.5.0](https://github.com/sunshine940326/changelog-test/compare/v1.4.0...v1.5.0) (2018-10-24)
+
+
+### Features
+
+* add changelog script ([8a44fe4](https://github.com/sunshine940326/changelog-test/commit/8a44fe4))
+
+
+
 <a name="1.4.0"></a>
 # [1.4.0](https://github.com/sunshine940326/changelog-test/compare/v1.3.4...v1.4.0) (2018-10-24)
 
