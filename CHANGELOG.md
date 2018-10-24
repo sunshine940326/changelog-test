@@ -1,3 +1,13 @@
+<a name="1.3.2"></a>
+## [1.3.2](https://github.com/sunshine940326/changelog-test/compare/v1.3.1...v1.3.2) (2018-10-24)
+
+
+### Features
+
+* 测试删除之前的 ([5fba1d7](https://github.com/sunshine940326/changelog-test/commit/5fba1d7))
+
+
+
 <a name="1.3.1"></a>
 ## [1.3.1](https://github.com/sunshine940326/changelog-test/compare/v1.3.0...v1.3.1) (2018-10-24)
 
@@ -20,7 +30,6 @@
 
 ### Features
 
-* 改改 ([f07a47a](https://github.com/sunshine940326/changelog-test/commit/f07a47a))
 * 更新日志 ([5aab86f](https://github.com/sunshine940326/changelog-test/commit/5aab86f))
 * 迟迟不 ([93a6a9e](https://github.com/sunshine940326/changelog-test/commit/93a6a9e))
 

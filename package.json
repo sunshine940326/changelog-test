@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "commitmsg": "validate-commit-msg",
-    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0"
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
   "devDependencies": {
     "cz-conventional-changelog": "^2.1.0",
