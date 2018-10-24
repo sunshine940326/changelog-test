@@ -1,4 +1,2 @@
-console.log('index')
-console.log('index')
-console.log('index')
-console.log('index')
+const changlog_script = ""
+export default changlog_script
