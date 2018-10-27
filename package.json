@@ -1,6 +1,6 @@
 {
   "name": "changelog-test",
-  "version": "1.8.0",
+  "version": "1.7.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "conventional-changelog": "^2.0.3",
+    "conventional-changelog-cli": "^2.0.5",
     "conventional-changelog-preset-loader": "^2.0.1",
     "conventional-commits-detector": "^1.0.2"
   }
