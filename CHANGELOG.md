@@ -24,7 +24,7 @@
 
 ### Features
 
-* 做了一些修改1212121212121 ([84d3904](https://github.com/sunshine940326/changelog-test/commit/84d3904))
+* 做了一些修改 ([84d3904](https://github.com/sunshine940326/changelog-test/commit/84d3904))
 
 
 
